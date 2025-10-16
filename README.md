@@ -55,18 +55,28 @@ Pada Tugas Praktikum kali ini, menggunakan tugas sebelumnya yaitu TP4 dengan beb
 ### ERROR HANDLING INSERT
 ![02](Dokumentasi/02.png)
 ![03](Dokumentasi/03.png)
+![03](Dokumentasi/err.png)
 
 ### INSERT
 ![04](Dokumentasi/04.png)
 
+### Database setelah Insert
+![041](Dokumentasi/041.png)
+
 ### ERROR HANDLING UPDATE
 ![05](Dokumentasi/05.png)
 ![06](Dokumentasi/06.png)
-![07](Dokumentasi/07.png)
 
 ### UPDATE
 ![08](Dokumentasi/08.png)
 
+### Database setelah Update
+![081](Dokumentasi/081.png)
+
+
 ### DELETE
 ![09](Dokumentasi/09.png)
 ![10](Dokumentasi/10.png)
+
+### Database setelah Delete
+![101](Dokumentasi/101.png)
