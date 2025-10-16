@@ -1,8 +1,8 @@
-# 💻 TP4 DPBO - Imam Azizun Hakim - 2404420
+# 💻 TP5 DPBO - Imam Azizun Hakim - 2404420
 
 
 ## 🤝 Janji
-"Saya Imam Azizun Hakim dengan NIM 2404420 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin."
+"Saya Imam Azizun Hakim dengan NIM 2404420 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin."
 
 
 ## 🔀 Penjelasan Desain dan Kode Flow
@@ -34,14 +34,17 @@
   2. Menampilkan data awal Produk
   3. Menambahkan data baru dengan atribut yang harus lengkap (ada Error Handling)
   5. Mengedit data dengan atribut yang harus lengkap (ada Error Handling)
-  6. Menghaous data dengan confirmation prompt
+  6. Menghapus data dengan confirmation prompt
 </pre>
+
+### Connect Database
+Pada Tugas Praktikum kali ini, menggunakan tugas sebelumnya yaitu TP4 dengan beberpaa perubahan di bagian data. Kali ini data diambil dari database MySQL, tidak dari hardcode seperti pada TP4. Untuk CRUD sudah tersambung ke Database MySQL. File data ***product.sql*** terdapat pada lampiran.
  
 ### Requirements
-  - Ketik ulang code di atas untuk melengkapi file ProductMenu.java ✅
-  - Tambahkan confirmation prompt sebelum delete ✅
-  - Tambahkah satu atribut baru di class Product sekaligus component di form dan logika pada file ProductMenu.java ✅
-  - Tambahan atribut produk lokal dengan inputan JRadioButton (Bonus) ✅
+- Hubungkan semua proses CRUD dengan database ✅
+- Hapus penggunaan variabel ArrayList. (*) ✅
+- Tampilkan dialog/prompt error jika masih ada kolom input yang kosong saat insert/update ✅
+- Tampilkan dialog/prompt error jika sudah ada ID yang sama saat insert ✅
     
 ## 📝 Dokumentasi
 **Berikut adalah Dokumentasi berupa Screenshot saat program dijalankan di IntelliJ IDEA**
