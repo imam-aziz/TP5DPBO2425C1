@@ -9,7 +9,7 @@
 - Menggunakan 1 class bernama **_Product_** dengan 5 atribut
 
 ### Diagram
-![Diagram](Ddiagram.png)  
+![Diagram](Diagram.png)  
 ![form](form.png)  
 
 ### Class Product
